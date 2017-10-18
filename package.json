@@ -1,0 +1,25 @@
+{
+  "name": "hjs-cmd",
+  "version": "1.0.0",
+  "description": "Hubrisjs command classes",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ornorm/hjs-cmd.git"
+  },
+  "keywords": [
+    "Command"
+  ],
+  "author": "Aime Biendo <abiendo@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ornorm/hjs-cmd/issues"
+  },
+  "homepage": "https://github.com/ornorm/hjs-cmd#readme"
+}
